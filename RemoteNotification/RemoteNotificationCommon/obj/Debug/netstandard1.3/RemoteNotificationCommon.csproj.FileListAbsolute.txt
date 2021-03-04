@@ -1,0 +1,9 @@
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/RemoteNotificationCommon/bin/Debug/netstandard1.3/RemoteNotificationCommon.deps.json
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/RemoteNotificationCommon/bin/Debug/netstandard1.3/RemoteNotificationCommon.dll
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/RemoteNotificationCommon/bin/Debug/netstandard1.3/RemoteNotificationCommon.pdb
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/RemoteNotificationCommon/obj/Debug/netstandard1.3/RemoteNotificationCommon.csprojAssemblyReference.cache
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/RemoteNotificationCommon/obj/Debug/netstandard1.3/RemoteNotificationCommon.AssemblyInfoInputs.cache
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/RemoteNotificationCommon/obj/Debug/netstandard1.3/RemoteNotificationCommon.AssemblyInfo.cs
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/RemoteNotificationCommon/obj/Debug/netstandard1.3/RemoteNotificationCommon.csproj.CoreCompileInputs.cache
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/RemoteNotificationCommon/obj/Debug/netstandard1.3/RemoteNotificationCommon.dll
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/RemoteNotificationCommon/obj/Debug/netstandard1.3/RemoteNotificationCommon.pdb

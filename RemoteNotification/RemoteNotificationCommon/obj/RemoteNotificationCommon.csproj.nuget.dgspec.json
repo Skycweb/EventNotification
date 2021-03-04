@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/RemoteNotificationCommon/RemoteNotificationCommon.csproj": {}
+  },
+  "projects": {
+    "/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/RemoteNotificationCommon/RemoteNotificationCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/RemoteNotificationCommon/RemoteNotificationCommon.csproj",
+        "projectName": "RemoteNotificationCommon",
+        "projectPath": "/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/RemoteNotificationCommon/RemoteNotificationCommon.csproj",
+        "packagesPath": "/Users/zuzhanluo/.nuget/packages/",
+        "outputPath": "/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/RemoteNotificationCommon/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/zuzhanluo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.3"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.3": {
+            "targetAlias": "netstandard1.3",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.3": {
+          "targetAlias": "netstandard1.3",
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.5.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

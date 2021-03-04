@@ -1,0 +1,16 @@
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/TestClient/bin/Debug/netcoreapp3.1/TestClient.deps.json
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/TestClient/bin/Debug/netcoreapp3.1/TestClient.runtimeconfig.json
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/TestClient/bin/Debug/netcoreapp3.1/TestClient.runtimeconfig.dev.json
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/TestClient/bin/Debug/netcoreapp3.1/TestClient.dll
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/TestClient/bin/Debug/netcoreapp3.1/TestClient.pdb
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/TestClient/obj/Debug/netcoreapp3.1/TestClient.csprojAssemblyReference.cache
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/TestClient/obj/Debug/netcoreapp3.1/TestClient.AssemblyInfoInputs.cache
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/TestClient/obj/Debug/netcoreapp3.1/TestClient.AssemblyInfo.cs
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/TestClient/obj/Debug/netcoreapp3.1/TestClient.csproj.CoreCompileInputs.cache
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/TestClient/obj/Debug/netcoreapp3.1/TestClient.dll
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/TestClient/obj/Debug/netcoreapp3.1/TestClient.pdb
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/TestClient/obj/Debug/netcoreapp3.1/TestClient.genruntimeconfig.cache
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/TestClient/bin/Debug/netcoreapp3.1/RemoteNotificationCommon.dll
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/TestClient/bin/Debug/netcoreapp3.1/RemoteNotificationCommon.pdb
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/TestClient/obj/Debug/netcoreapp3.1/TestClient.csproj.CopyComplete
+/Users/zuzhanluo/Documents/RemoteNotification/RemoteNotification/TestClient/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
